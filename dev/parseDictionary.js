@@ -1,7 +1,7 @@
 'use strict';
 
-const DICTIONARY_URL = 'https://rawgit.com/mozillazg/pinyin-data/master/pinyin.txt';
-const CHAR_RANGE_URL = 'https://rawgit.com/mozillazg/pinyin-data/master/kMandarin_8105.txt';
+const DICTIONARY_URL = 'https://raw.githubusercontent.com/mozillazg/pinyin-data/master/pinyin.txt';
+const CHAR_RANGE_URL = 'https://raw.githubusercontent.com/mozillazg/pinyin-data/master/kMandarin_8105.txt';
 
 const fs = require('fs');
 const path = require('path');
